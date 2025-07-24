@@ -1,2 +1,2 @@
-# wagnetron.github.io
+# wagnificent.github.io
 wagnetron website
